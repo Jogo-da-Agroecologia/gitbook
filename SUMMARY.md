@@ -2,14 +2,14 @@
 
 ## 🌱 Documentação
 
-* [Início](README.md)
+* [Início](index.md)
 * [Objetivos e MVV](objetivos-e-mvv.md)
 * [Descrição](descricao.md)
 * [Manifesto](manifesto.md)
 
 ## 🇺🇸 English
 
-* [Home](README.en.md)
+* [Home](index.en.md)
 
 ***
 
