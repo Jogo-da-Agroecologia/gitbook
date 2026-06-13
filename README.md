@@ -1,4 +1,6 @@
-<div align="center">
+🇧🇷 Português | [🇺🇸 English](README.en.md)
+
+[![Jogo da Agroecologia — nome escrito na areia](assets/ja_banner.png)](assets/ja_banner.png)
 
 # 🌱 Jogo da Agroecologia
 
@@ -6,14 +8,11 @@
 
 *Da transição agroecológica à coordenação permanente — jogando para regenerar a vida.*
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-39d353?style=flat-square)]()
-[![Rodadas Piloto](https://img.shields.io/badge/Rodadas_Piloto-3_previstas-0d6efd?style=flat-square)]()
-[![Tecnologia Social](https://img.shields.io/badge/Tecnologia-Social-1D9E75?style=flat-square)]()
-[![Open Source](https://img.shields.io/badge/Open-Source-39d353?style=flat-square)]()
-[![Web2 + Web3](https://img.shields.io/badge/Web2_+_Web3-Bridge-blueviolet?style=flat-square)]()
-
-</div>
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-8B4513?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Rodadas Piloto](https://img.shields.io/badge/Rodadas_Piloto-3_previstas-2E8B57?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Tecnologia Social](https://img.shields.io/badge/Tecnologia-Social-6B8E23?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Agroecologia](https://img.shields.io/badge/Agroecologia-Brasil-A0522D?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
 
 ---
 
@@ -25,29 +24,37 @@ O **Jogo da Agroecologia** é uma Ferramenta Pedagógica e Tecnologia Social des
 
 Pode ser jogado por pessoas da sociedade civil e por instituições — privadas, governamentais ou de commons.
 
+A gamificação é utilizada como estratégia pedagógica para engajamento, aprendizagem experiencial e reflexão crítica — não como mecanismo competitivo ou de controle comportamental.
+
 ---
 
 ## 🎯 Missão, Visão e Valores
 
-**Missão**
-Acelerar a Transição Agroecológica.
+**Missão** — Acelerar a Transição Agroecológica.
 
-**Visão**
-Gerar condições, até 2029, para que 1 milhão de pessoas adquiram hábitos e rotinas sustentáveis e regenerativas por meio do Jogo da Agroecologia.
+**Visão** — Gerar condições, até 2029, para que 1 milhão de pessoas adquiram hábitos e rotinas sustentáveis e regenerativas por meio do Jogo da Agroecologia.
 
 **Valores**
 
-[![Diversidade](https://img.shields.io/badge/Diversidade-1D9E75?style=flat-square)]()
-[![Cooperação](https://img.shields.io/badge/Cooperação-39d353?style=flat-square)]()
-[![Inteligência Emocional](https://img.shields.io/badge/Inteligência_Emocional-0d6efd?style=flat-square)]()
-[![Reconhecimento](https://img.shields.io/badge/Reconhecimento-blueviolet?style=flat-square)]()
+[![Diversidade](https://img.shields.io/badge/🌍_Diversidade-1D9E75?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Cooperação](https://img.shields.io/badge/🤝_Cooperação-6B8E23?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Inteligência Emocional](https://img.shields.io/badge/🧠_Inteligência_Emocional-4682B4?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Reconhecimento](https://img.shields.io/badge/🌟_Reconhecimento-A0522D?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+
+---
+
+## 🌍 O que entendemos por Agroecologia
+
+> Integração entre ciências interdisciplinares, práticas produtivas sustentáveis e movimento social — articulando conhecimentos científicos e saberes tradicionais para a construção de sistemas alimentares justos, resilientes e ecologicamente equilibrados.
+
+A **Transição Agroecológica** não se limita a mudanças técnicas nos sistemas produtivos. Envolve transformações culturais, sociais, econômicas e institucionais, exigindo processos coletivos e estruturais.
 
 ---
 
 ## 🛠 Componentes da Plataforma
 
 | Componente | Descrição |
-|---|---|
+|-----------|-----------|
 | 🎮 Gamificação | Sistema de metas, pegada ecológica e recompensas |
 | 📚 Trilhas de Aprendizagem | Educação Ambiental e Educação Emocional |
 | 🏪 Mercado Ecológico | Economia local, solidária e agroecológica |
@@ -56,15 +63,7 @@ Gerar condições, até 2029, para que 1 milhão de pessoas adquiram hábitos e 
 
 ---
 
-## 🌍 Entendemos Agroecologia como
-
-> Integração entre ciências interdisciplinares, práticas produtivas sustentáveis e movimento social — articulando conhecimentos científicos e saberes tradicionais para a construção de sistemas alimentares justos, resilientes e ecologicamente equilibrados.
-
-A **Transição Agroecológica** não se limita a mudanças técnicas nos sistemas produtivos. Envolve transformações culturais, sociais, econômicas e institucionais, exigindo processos coletivos e estruturais.
-
----
-
-## 🚀 Roadmap
+## 🚀 Linha do Tempo
 
 ```
 2014–2016   Criação do jogo
@@ -80,26 +79,11 @@ A **Transição Agroecológica** não se limita a mudanças técnicas nos sistem
 
 ## 🔗 Ecossistema e Parcerias
 
-[![REGA Brasil](https://img.shields.io/badge/REGA-Brasil-1D9E75?style=flat-square)]()
-[![VAV](https://img.shields.io/badge/Iniciativa-VAV-39d353?style=flat-square)]()
-[![Protocolo RERE](https://img.shields.io/badge/Protocolo-RERE-0d6efd?style=flat-square)]()
-[![Greenpill Brasil](https://img.shields.io/badge/Greenpill-Brasil-blueviolet?style=flat-square)]()
-[![Regen Rio](https://img.shields.io/badge/Regen-Rio-2ea44f?style=flat-square)]()
-
----
-
-## 🏗 Arquitetura da Plataforma (em construção)
-
-```
-Jogo da Agroecologia
-├── docs/                  → Documentação pública (este repo · GitBook)
-├── app/                   → Plataforma web + mobile (Web2 + Web3)
-│   ├── gamification/      → Sistema de metas e pegada ecológica
-│   ├── marketplace/       → Mercado Ecológico
-│   ├── learning/          → Trilhas de aprendizagem
-│   └── coordination/      → Fluxos de coordenação territorial
-└── contracts/             → Smart contracts (em definição)
-```
+[![REGA Brasil](https://img.shields.io/badge/REGA-Brasil-2E8B57?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![VAV](https://img.shields.io/badge/Iniciativa-VAV-6B8E23?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Protocolo RERE](https://img.shields.io/badge/Protocolo-RERE-4682B4?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Greenpill Brasil](https://img.shields.io/badge/Greenpill-Brasil-556B2F?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
+[![Regen Rio](https://img.shields.io/badge/Regen-Rio-8B4513?style=flat-square)](https://github.com/Jogo-da-Agroecologia/gitbook)
 
 ---
 
@@ -113,35 +97,20 @@ O Jogo da Agroecologia não se propõe a substituir políticas públicas, movime
 
 ---
 
-## 🤝 Como contribuir
-
-Este projeto está em construção aberta. Se você ou sua organização se alinha à missão:
-
-1. Leia nosso [Manifesto](./manifesto.md)
-2. Consulte as [diretrizes de contribuição](./CONTRIBUTING.md)
-3. Abra uma [issue](https://github.com/Jogo-da-Agroecologia/docs/issues) com sua proposta
-4. Ou entre em contato diretamente
-
----
-
 ## 👩‍🌾 Sobre a criadora
 
-**Tainá Moraes Buzzatti** — brasileira, mãe, professora, ativista agroecológica, feminista. Nascida em junho de 1994.
+**Tainá Moraes Buzzatti** — brasileira, mãe, professora, ativista agroecológica, feminista e comunista/anarquista. Nascida em junho de 1994.
 
-O Jogo da Agroecologia emerge de um saber situado, construído a partir da vivência direta com educação, agroecologia e ativismo socioambiental.
+O Jogo da Agroecologia emerge de um saber situado, construído a partir da vivência direta com educação, agroecologia e ativismo socioambiental — conferindo ao projeto legitimidade prática e coerência entre trajetória pessoal, proposta pedagógica e posicionamento político.
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) — use, adapte e compartilhe, desde que com atribuição e sob a mesma licença.
+Este projeto está licenciado sob [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) — use, adapte e compartilhe, com atribuição, apenas para fins não comerciais e sob a mesma licença.
 
 ---
 
-<div align="center">
-
 **Pela regeneração do planeta · Pela cooperação · Pelo Bem Viver, para todos os seres.**
 
-[![Jogo da Agroecologia](https://img.shields.io/badge/github-Jogo--da--Agroecologia-1D9E75?style=flat-square&logo=github)](https://github.com/Jogo-da-Agroecologia)
-
-</div>
+[![Jogo da Agroecologia](https://img.shields.io/badge/github-Jogo--da--Agroecologia-2E8B57?style=flat-square&logo=github)](https://github.com/Jogo-da-Agroecologia)
